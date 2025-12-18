@@ -1,0 +1,26 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.class
+*.so
+.Python
+
+# Database files
+*.db
+*.sqlite3
+*.sqlite
+phishing.db
+# Environment variables
+.env
+
+# Virtual environments
+venv/
+env/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
