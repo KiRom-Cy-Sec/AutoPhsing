@@ -35,7 +35,7 @@ You can't use your normal Gmail password. You need an "App Password":
 6. Click Generate
 7. Copy the 16-character password into config.py
 
-### How to Add Your Own Templates
+## How to Add Your Own Templates
 ### Step 1: Create HTML file
 In templates/ folder, create new_template.html:
 
@@ -100,3 +100,4 @@ def show_menu(self):
     print("6. View Statistics")
     print("7. Exit")
 ```
+
